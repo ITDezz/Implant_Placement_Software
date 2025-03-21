@@ -14,17 +14,13 @@ We design a novel and simple-to-use CAD system to assist the dentists to design 
    - 
 ![image](https://github.com/user-attachments/assets/640eb391-03c2-4511-9e4e-a47a61f08eca)
 
-## Technical Specifications
+## Software Operation Guide
 
-### Development Stack
-| Component | Technology |
-|-----------|------------|
-| GUI Framework | PyQt5 5.15 |
-| 3D Rendering | VTK 9.2 |
-| Medical Imaging | SimpleITK 2.2 |
-| Geometry Processing | NumPy 1.24, SciPy 1.10 |
-| DICOM I/O | pydicom 2.3 |
+To run this software, please follow these steps:
 
-```bash
-# Quick install dependencies
-pip install pyqt5 vtk simpleitk numpy scipy pydicom
+1. Click the [Link]() to download the software package and testing data.
+2. Once the download is complete, simply run the extracted `main.exe` file.
+3. Click the [Link](https://pan.baidu.com/s/159iYDFWI_Bh-ys3f0FBhoA?pwd=sf8t) to download the test dataset for testing.
+
+## Contact information  
+* E-mail: xlpflyinsky@foxmail.com
