@@ -18,7 +18,7 @@ We design a novel and simple-to-use CAD system to assist the dentists to design 
 
 To run this software, please follow these steps:
 
-1. Click the [Link]() to download the software package and testing data.
+1. Click the [Link]() to download the software package.
 2. Once the download is complete, simply run the extracted `main.exe` file.
 3. Click the [Link](https://pan.baidu.com/s/159iYDFWI_Bh-ys3f0FBhoA?pwd=sf8t) to download the test dataset for testing.
 
